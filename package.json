@@ -1,0 +1,19 @@
+{
+  "name": "@1910653094/my-first-public-package",
+  "version": "1.0.0",
+  "description": "trying to publish a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1910653094/my-first-public-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1910653094/my-first-public-package/issues"
+  },
+  "homepage": "https://github.com/1910653094/my-first-public-package#readme"
+}
